@@ -1,0 +1,15 @@
+[
+  { "name": "unmatched01", "team" : "debian" },
+  { "name": "unmatched02", "team" : "debian" },
+  { "name": "unmatched03", "team" : "debian" },
+  { "name": "unmatched04", "team" : "debian" },
+  { "name": "unmatched05", "team" : "debian" },
+  { "name": "unmatched06", "team" : "debian" },
+  { "name": "unmatched07", "team" : "debian" },
+  { "name": "unmatched08", "team" : "debian" },
+  { "name": "volcanion",   "team" : "arch" },
+  { "name": "reshiram",    "team" : "arch" },
+  { "name": "talonflame",  "team" : "arch" },
+  { "name": "fletchinder", "team" : "arch" },
+  { "name": "larvesta",    "team" : "arch" }
+]
