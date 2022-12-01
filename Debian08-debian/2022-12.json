@@ -1,1 +1,1 @@
-["#<struct Struct::Record ttime=2022-12-01 03:52:25 +0000, users=0, load=1.0>"]
+[{"date":"2022-12-01T03:52:25+00:00","p95Users":0,"p95Load":26.0}]
